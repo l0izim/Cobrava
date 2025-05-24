@@ -62,45 +62,13 @@ cobrava/
 │   └── sidebar.php        # Menu lateral
 ├── cliente/
 │   ├── contas_pagas.php   # Área do cliente
+│   ├── pagar.php          # area de pagamento
 │   └── sidebar_cliente.php # Menu do cliente
-├── config/
-│   └── config.php         # Configurações do banco de dados
-├── assets/
-│   ├── css/               # Estilos customizados
-│   └── js/                # Scripts JavaScript
+├── db.php                 # Conexão banco de dados
 ├── login.php              # Página de login
 └── logout.php             # Encerramento de sessão
 
-🔧 Instalação
-Requisitos:
 
-Servidor web (Apache, Nginx)
-
-PHP 7.4+
-
-MySQL/MariaDB
-
-Composer (recomendado)
-
-Configuração:
-
-bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/cobrava.git
-
-# Acesse o diretório
-cd cobrava
-
-# Configure o banco de dados (edite config/config.php)
-Banco de Dados:
-
-Importe o arquivo database.sql para criar a estrutura inicial
-
-Acesso:
-
-Admin: http://localhost/cobrava/admin
-
-Cliente: http://localhost/cobrava/cliente
 
 🎨 Design System
 Cores Principais
@@ -159,5 +127,6 @@ Abra um Pull Request
 Para mais informações, entre em contato:
 
 Email: luisotaviofatoremadeira@gmail.com
+Cell: (19)99989-6768
 
 Desenvolvido com ❤️ por Luizitu - © 2025 Cobrava
