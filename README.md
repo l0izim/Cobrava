@@ -55,19 +55,19 @@ Transições e animações suaves
 Validação de formulários
 
 🚀 Estrutura do Projeto
-cobrava/
-├── admin/
-│   ├── admin.php          # Painel principal
-│   ├── cobrancas.php      # Gerenciamento de cobranças
-│   └── sidebar.php        # Menu lateral
-├── cliente/
-│   ├── contas_pagas.php   # Área do cliente
-│   ├── pagar.php          # area de pagamento
-│   └── sidebar_cliente.php # Menu do cliente
-├── db.php                 # Conexão banco de dados
-├── login.php              # Página de login
-└── logout.php             # Encerramento de sessão
-
+cobrava/ <br>
+├── admin/ <br>
+│   ├── admin.php          # Painel principal <br>
+│   ├── cobrancas.php      # Gerenciamento de cobranças <br>
+│   └── sidebar.php        # Menu lateral <br>
+├── cliente/ <br>
+│   ├── contas_pagas.php   # Área do cliente <br>
+│   ├── pagar.php          # area de pagamento <br>
+│   └── sidebar_cliente.php # Menu do cliente <br>
+├── db.php                 # Conexão banco de dados <br>
+├── login.php              # Página de login <br>
+└── logout.php             # Encerramento de sessão <br>
+<br>
 
 
 🎨 Design System
